@@ -54,6 +54,10 @@ h2 a:hover {
   border-bottom: 5px solid #808080;
 }
 
+h4{
+  margin-bottom: -5px;
+}
+
 .text {
   position: relative;
   top: 50%;
@@ -158,6 +162,7 @@ h2 a:hover {
   margin-right: 10px;
   margin-top: 10px;
   padding-top: 5px;
+  padding-bottom: 1px;
 }
 
 /* RIGHT BRAIN AREA */
@@ -230,8 +235,10 @@ h2 a:hover {
 
 @media screen and (max-width: 768px) {
 
-  .kaitlyn-hova-face{
-    margin-bottom: -263px;
+  #bars {
+    position: relative;
+    z-index: 9999999;
+    top: 33px;
   }
 
   .neuroscience, .music{
@@ -244,5 +251,13 @@ h2 a:hover {
 
   .code, .art{
     width: 70%;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  #bars {
+    position: relative;
+    z-index: 9999999;
+    top: 133px;
   }
 }
