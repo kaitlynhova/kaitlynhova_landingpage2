@@ -107,7 +107,7 @@ h2 a:hover {
 .left-bars{
   background-color: lightgray;
   padding-bottom: 101px;
-  background-image: url('/left.svg');
+  background-image: url('/images/left.svg');
 }
 
 @-moz-document url-prefix() {
@@ -197,7 +197,7 @@ h2 a:hover {
   font-family: 'andreanormal';
   font-size: 15px;
   letter-spacing: 3px;
-  background-image: url('/right.svg');
+  background-image: url('/images/right.svg');
 }
 
 .music{
