@@ -272,6 +272,7 @@ h2 a:hover {
   margin-top: -6px;
 }
 
+/* SMALL SCREENS */
 @media screen and (max-width: 768px) {
 
   #bars {
@@ -297,6 +298,7 @@ h2 a:hover {
   }
 }
 
+/* EXTRA SMALL SCREENS */
 @media screen and (max-width: 460px) {
   #bars {
     position: relative;
