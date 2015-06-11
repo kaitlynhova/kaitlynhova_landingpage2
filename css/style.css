@@ -92,6 +92,10 @@ ul{
 
 /* SYNESTHESIA EFFECT */
 
+#synesthesia-notes{
+  height: 400px;
+}
+
 #synesthesia-notes ul {
   width: 100% !important;
   height: 100% !important;
@@ -306,6 +310,9 @@ ul{
     position: relative;
     z-index: 9999999;
     top: 133px;
+  }
+  .kaitlyn-hova-face {
+    margin-bottom: -415px;
   }
 }
 
