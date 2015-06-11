@@ -26,6 +26,7 @@ h1 {
   padding: 0px;
   position: relative;
   top: 300px;
+  height: 50px;
 }
 
 h2 {
@@ -87,7 +88,7 @@ ul{
   margin: 0 auto;
   position: relative;
   top: 200px;
-  margin-bottom: -500px;
+  margin-bottom: -495px;
   z-index: -1;
 }
 
@@ -308,8 +309,12 @@ ul{
     z-index: 9999999;
     top: 133px;
   }
+  h1{
+    top:250px;
+  }
   .kaitlyn-hova-face {
-    margin-bottom: -415px;
+    margin-bottom: -460px;
+    top: 270px;
   }
   .right-bars {
     padding-bottom: 200px;
