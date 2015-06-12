@@ -333,3 +333,25 @@ ul{
 	  margin-bottom: -430px;
   }
 }
+
+/* Large Devices, Wide Screens */
+ @media only screen and (min-width : 1200px) {
+   .topnotes{
+     width: 100%;
+   }
+   .kaitlyn-hova-face {
+    max-width: 800px;
+    top: 280px;
+  }
+  h1 {
+    font-size: 100px;
+    margin-top: 150px;
+  }
+
+   .right-bars , .left-bars{
+     padding-bottom: 300px;
+   }
+   ul li img{
+     width: 100%;
+   }
+ }
