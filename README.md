@@ -3,3 +3,5 @@
 - KAITLYN HOVA title
 - parallax synesthesia background
 - Right/Left brain bar areas with triangle backgrounds. 
+
+[live link](http://kaitlynhova.github.io/kaitlynhova_landingpage2/)
